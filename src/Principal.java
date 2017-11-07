@@ -89,8 +89,8 @@ public class Principal {
      * Complexidade para o caso médio/esperado Theta(d(n+k)).
      * k pertence a O(n) portanto O(n)
      * 
-     * @param A
-     * @param n 
+     * @param A Vetor com os dados a serem ordenados
+     * @param n Quantidade de elementos do vetor A
      */
     public static void radixSort(int[] A, int n){
          //Maior valor do vetor A
