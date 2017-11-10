@@ -6,6 +6,10 @@
  * Prof Alexandre Gonçalves da Silva 
  * Baseado nos slides 114 da aula do dia 15/09/2017 
  */
+
+/**
+ * @author Osmar de Oliveira Braz Junior
+ */
 public class Principal {
 
     /**
