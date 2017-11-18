@@ -9,7 +9,7 @@
  *
  * Página 142 Cormen 3 ed
  *
- * Algoritmo RadixSort
+ * Algoritmo RadixSort/Ordenação Digital
  *
  * Atenção:
  * Vetor em java inicia em 0, os algoritmos consideram início em 1.
@@ -125,17 +125,17 @@ public class Principal {
         }
         //Copia o vetor B para A
         System.arraycopy(B, 0, A, 0, n);
-    }
-    
+    }    
 
     public static void main(String args[]) {
+        
         //Vetor dos dados    
         int A[] = {512, 713, 625, 102, 121, 328, 221, 449};
 
         //Tamanho do vetor
         int n = A.length;
 
-        System.out.println(">>> RadixSort <<<");
+        System.out.println(">>> Algoritmo RadixSort/Ordenação Digital <<<");
         System.out.println("Original: ");
         for (int i = 0; i < n; i++) {
             System.out.println((i + 1) + " - " + A[i]);
