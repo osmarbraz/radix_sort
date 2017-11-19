@@ -7,7 +7,7 @@
  *
  * Baseado nos slides 114 da aula do dia 15/09/2017 
  *
- * Página 142 Cormen 3 ed
+ * Página 142 Thomas H. Cormen 3 ed
  *
  * Algoritmo RadixSort/Ordenação Digital
  *
